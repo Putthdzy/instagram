@@ -1,0 +1,7 @@
+.pp {
+  width: 150px;
+  clip-path: circle();
+}
+.foto-pp {
+  padding-left: 20px;
+}

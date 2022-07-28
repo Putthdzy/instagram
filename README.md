@@ -1,2 +1,2 @@
-# instagram
+# buat-home
 Created with CodeSandbox
